@@ -1,0 +1,140 @@
+---
+title: For sponsors - Pandita.cz
+levelUp: "english-version.html"
+---
+
+# For sponsors
+
+We welcome any donations. We are based in the Czech Republic and we use the following bank account. </br></br>
+
+<span class="transparentni-ucet">Account Number: 2174622001/5500<br>
+Name of the Account: Dharma zdarma<br></span><br>
+
+<div class="underline">International payments</div><br>
+IBAN: CZ36 5500 0000 0021 7462 2001<br>
+BIC: RZBCCZPP
+<br><br>
+
+Our bank statement and all our incoming and outgoing transaction are available online. When you send us your donation, you should be able to see it in a few days here:<br><br>
+
+<a
+id="stahnout-panditu"
+href="https://www.rb.cz/povinne-zverejnovane-informace/transparentni-ucty?path=transactions&name=Spolek&accountNumber=2174622001"> Bank Statement</a><br>
+
+### Present projects
+
+Our sponsors can also decide to pay for the making of one of the audiobooks in the list below. The estimated costs are in the brackets. To record the audiobooks, we hire professional voice-over actors.<br><br>
+
+If you decide to pay for the making of one of the audiobooks, we will consider you to be one of our PATRONS and we will be happy to give you access to our YouTube channel. Once you have access to our YouTube channel, you will be able to see all the statistics, study them and analyze them. Please let us know if you are interested.<br>
+
+<ul>
+<li><a href="https://drive.google.com/file/d/1Pijb_fdh8-nAg0sqF2Jydsg26HUCx94o/view?usp=sharing">Metta Meditation, Teoh Visu [ 6000 CZK (approx. 285 USD) ]</a></li>
+
+<li><a href="https://drive.google.com/file/d/1_YSy0hrDr8WdFZ0TU7XupDDbIiNAj1bT/view?usp=sharing">Good Questions, Good Answers; Shravasti Dhammika [ 10 000 CZK (approx. 480 USD) ]</a></li>
+
+<li><a href="https://drive.google.com/file/d/1XxalvczaoyzXwAwpkLkxwIB9r1_3lPT2/view?usp=sharing">Dhammapada: Buddha´s words [ 10 000 CZK (approx. 480 USD) ]</a></li>
+
+<li><a href="https://drive.google.com/file/d/192LLxFtMQWblDq5OQD2ZPE7sncBoZ2Cw/view?usp=sharing">Learn to be at peace with yourself, Ajahn Brahm [ 5000 CZK (approx. 240 USD) ] </a></li>
+</ul>
+
+The links above will take you to Czech translations of English written (or spoken) books and talks. However, to help our sponsors understand what we are doing, we have used English titles on this page.<br><br>
+
+The three audiobooks in the list below will be available for free distribution and their use will not be limited to our YouTube channel. We will let anyone distribute these audiobooks.<br><br>
+
+<li>Metta Meditation, Teoh Visu</li>
+<li>Good Questions, Good Answers; Shravasti Dhammika</li>
+<li>Dhammapada: Buddha´s words</li><br>
+
+The re-use and distribution of the Czech version of Ajahn Brahm´s talk "Learn to be at peace with yourself" will be a little bit more limited.
+
+### Question and Answers
+
+<b style="margin-bottom:7px">What are your operation costs?</b><br>
+Every year we have to pay the internet domain [Pandita.cz](https://www.pandita.cz/) (approx. 200 CZK). In 2021 we have started to use static pages and, as a result, we do not have to pay the yearly fee for webhosting anymore. <br><br>
+
+<b style="margin-bottom:7px">How do you make use of the funds that you receive from your donors?</b><br>
+All the funds received are used to hire proffesional voice-over actors. They record the audiobooks for us. Presently we have enough books (Czech translations) that we can use for the making of audiobooks. <br><br>
+
+<b style="margin-bottom:7px">I can support you financially, I understand that. Can I support your activities in any other way?</b>
+
+Yes, there is another way to support us. It is more suitabale for those who are interested in volunteering and audiobook production.<br><br>
+
+Surprisingly, many of the Czech voice-over actors speak English and you can contact them online. You can hire them, pay them for the audiobook and when the audiobook is finished, you can send it to us. <br><br>
+
+There are a few websites where Czech voice-over actors can be hired. The links in the list below will take you to some of them.<br><br>
+
+[Fiverr.com](https://www.fiverr.com/categories/music-audio/voice-overs?utm_source=google&utm_medium=cpc&utm_campaign=g_ge-row_ln-en_dv-desktop_cat-music-audio_cst-dsa_qg-tier1_static-gig-page-feed&utm_term=row_tier1_dsa_static-feed_voice_over_desktop&utm_content=AdID%5E520311618610%5EKeyword%5E%5EPlacement%5E%5EDevice%5Ec&caid=13033288744&agid=118846213621&ad_id=520311618610&kw=&lpcat=br_general&show_join=true&gclid=CjwKCAjwj42UBhAAEiwACIhADtcc4IGV26JbztUhft7MIv1UstC82Y2FBEhxFf2vTt7u5KvbHxN_pRoCrCEQAvD_BwE&gclsrc=aw.ds&ref=language%3Aczech)<br>
+
+[Voices.com](https://www.voices.com/hire/voice-over/language/czech)<br>
+[voice123.com](https://voice123.com/)<br>
+[voquent.com](https://www.voquent.com/voice-actors/find/?simpleLanguage=simpleLanguage14&search=Search&free-text=&voice-id-input=)<br><br>
+
+Some of the links will take you to home page only. Some of them will take you directly to a list of Czech voice-over actors. <br><br>
+
+<b style="margin-bottom:7px" >Do you have any income from your YouTUbe?</b><br>
+Since 1.6.2021 YouTube has the [<i>Right to Monetize</i>](https://support.google.com/youtube/answer/10090902?hl=en#zippy=%2Cwhy-did-you-change-the-terms-of-service%2Cwhat-are-the-main-changes%2Chow-will-this-affect-my-ypp-monetization%2Cdoes-this-have-to-do-with-the-european-union-copyright-directive-or-gdpr%2Cwhat-does-this-mean-for-my-privacy-or-data) all the content on the platform. As a result, there are occasionally adds on our YouTube channel PANDITA CZ. Presently it is only at the beginning of some of the videos. However, we do not add any additional adds into our videos. There are a few good reasons for it:
+
+<ul>
+<li>it would make the user experience less pleasant</li>
+<li style="margin-top:7px">we have permisson to use the videos of <a href="https://www.youtube.com/c/BuddhistSocietyWA">Buddhist Society of Australia</a>. However, we are not allowed to use their videos commercially.</li>
+
+<li style="margin-top:7px">
+In the Czech Republic, the average YouTube income from one million views is only around 1000 USD. That is approximatelly the amount of money needed to translate a small book and pay the voice-over actor for the audiobook recording.
+</li>
+
+<li style="margin-top:7px">All the effort that we put into creating the YouTube channel is our DANA (generosity). It would not make us so happy if we expected some financial gain. In addition to that, the Buddha himself spoke about that the Dhamma should not be taught for material reward. You can read about it the <a href="https://suttacentral.net/an5.159/en/sujato?layout=plain&reference=none&notes=asterisk&highlight=false&script=latin">Udayi Sutta.</a></li>
+
+</ul>
+
+If you are in doubt about our YouTube income, please feel free to contact us. We will be happy to give anyone [Viewer access](https://support.google.com/youtube/thread/26199601/%F0%9F%9A%A9-introducing-channel-permissions-in-youtube-studio?hl=en) to our channel. The <b>Viewer</b> can see all the statistics, including those which are related to YouTube income.<br><br>
+
+<b style="margin-bottom: 70px" >I would like to support your activities. But I am afraid that one day YouTube channel PANDITA CZ will be deleted. As a result, all the recordings and audiobooks that I will help to create might be lost.</b><br>
+
+Yes, though it is very unlikely, YouTube can delete our YouTube channel. Accidentally, we could delete it too. <br><br>
+
+We do not want our recordings to be lost and, therefore, we have taken a few measures.
+
+<ul>
+<li style="margin-top:7px">we upload all our recordings and audiobooks to our <a href="https://drive.google.com/drive/u/0/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj"> Google Disk. </a> You can find them in the AUDIO folder. It is very easy to download files from a Google Disk and, therefore, anyone can create a private back-up of what we do. We even <a href="https://www.youtube.com/watch?v=QsQKPA6wLDM&t=14s">have a video</a> with instructions on how to download files from google disk. (NOTE: We are also re-using videos from other YouTube channels and, at the moment, we do not back up these videos.)</li>
+<li style="margin-top:7px">we have asked a few of our Dhamma friends to back-up our google disk. They are not members of our organization and so it is just another independent back-up. At the end of each year, they create a new back-up. The list of the Dhamma friends who back up our Google Disk can be found on the <a href="https://borek78.github.io/jak-tvorit-panditu/zalohovani.html">Zálohování</a> page. (in Czech language only).</li>
+
+<li style="margin-top:7px">we encourage others to copy, distribute and  re-use some of our materials. For example, the Buddhist Maha Vihara in Kuala Lumpur gave us permission to use the following copyright notice. We have attached it to the <a href="https://www.youtube.com/watch?v=UmZdD-jtZTU&t=3132s">How to practice Buddhisms audiobook</a>. <br><br>
+
+................................................<br>
+<b>Author:</b> K. Sri Dhammananda<br><br>
+
+<b>Copyright holder of the english original:</b><br>
+Buddhist Maha Vihara<br>
+123 Jalan Berhala, Brickfields<br>
+Wilayah Persekutuan<br>
+50470 Kuala Lumpur<br>
+website: Buddhistmahavihara.org<br><br>
+
+<b>Translation:</b> Libor Štichauer, Pandita.cz<br>
+<b>Narrator:</b> Luboš Novák<br>
+<b>Production:</b> Dharma zdarma z.s.<br><br>
+
+It is not allowed to sell this audiobook. The access to this audiobook should always be free of charge. However, it is allowed to copy, distribute and share this audiook via any virtual media. For example, it is allowed to download this audiobook from our YouTube channel and distribute it via any plattform for sharing audio and video files (YouTube, Facebook, Spotify, etc). In other words, you are allowed to download this audiobook and upload it on your YouTube, Facebook, Spotify, and so forth.<br>
+
+..........................................<br><br>
+
+The copyright notice above is attached at the and of the audiobook. It is present in both the video and audio.
+
+ </li>
+
+</ul><br>
+
+<b style="margin-bottom:7px" >In the past, your organizition Dharma zdarma z.s. (the original name was SATI Pardubice o.s.) published and printed Dhamma books for free distribution. Do you plan to go back to printing Dhamma books?</b><br>
+
+No, we do not plan to do that. It is much more effective to produce audiobooks. Only a few people can share one book but thousands of them can share one audiobook. Audiobook production is also cheaper than production of printed books. In addition to that, the existence of YouTube and similar platforms makes it very easy to distribute audiobooks.<br><br>
+
+<b style="margin-bottom:7px" >Can you compare the costs of audiobook production and the cost of printing books?</b><br>
+In 2007 we have published the book [How to practice buddhism](https://drive.google.com/file/d/1km7L85CA0YYZ_IUuVYuezD3NrQABIQCO/view?usp=sharing). We printed 5000 copies for free distribution. Majority of them was distributed in Prague [Buddhist Centre Lotus.](https://www.centrumlotus.cz/en/) The costs per one book was 6,72 CZK. The overall costs for 5000 copies was 5000 \* 6,72 CZK = 33 600 kč (approx. 1493 USD)<br><br>
+
+At the beginning of the year 2022 we have hired a professional voice-over actor and he recorded the [How to practice buddhism](https://www.youtube.com/watch?v=UmZdD-jtZTU) audiobook for us. We paid him 4000 Kč (approx 178 USD) for it. The audiobook is available on our YouTube. <br><br>
+
+<b style="margin-bottom:7px" >Would it be right to say that the costs for a professional audiobook in the Czech Republic are 4000 CZK (178 USD) for an hour of finished audio recording?</b><br>
+
+Our experience is so far very limited. The costs of audiobook production vary and they very much depend on the quality and skills of the narrator. <br><br>
+
+However, we have made a very small research into the market and we have concluded that the costs for one hour of a professional recording should be 4000 CZK to 7000 CZK (178USD - 311 USD)

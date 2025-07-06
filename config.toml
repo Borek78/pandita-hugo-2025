@@ -1,0 +1,33 @@
+# https://borek78.github.io/pandita/
+baseURL = ''
+languageCode = 'en-us'
+title = 'Pandita.cz'
+theme = "pandita"
+
+disableKinds = ["section"]
+
+uglyURLs = "true"
+relativeURLs = "true"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      xhtml = false
+
+  
+
+# uglyURLs = "true" 
+# relativeURLs = "true"
+
+
+
+
+
+
+
+
+
+
+
+

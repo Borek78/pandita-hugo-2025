@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="default: en">
+  {{ partial "head" . }}
+
+  <body>
+    {{ partial "header" . }}
+
+    <!--Content-->
+    <main class="main">
+      <div id="web-under-construction">
+        Obsah tohoto webu zatím hledá své konečné znění.
+      </div>
+
+      <div id="page">
+        <div id="text-in-page">{{ block "main" . }} {{ end }}</div>
+      </div>
+    </main>
+
+    {{ partial "footer" . }}
+
+    <script src="/js/script.js"></script>
+  </body>
+</html>

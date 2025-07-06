@@ -1,0 +1,45 @@
+<header>
+  <section id="banner">
+    <div id="napis-wrapper">
+      <div id="napis" class="napis">
+        <img src="{{ "images/pandita-logo.png" | relURL }}" class="pandita-logo"
+        />
+        <!--<div id="napis" style="background-image: url( {{"./images/pandita-logo.png" | relURL }})">-->
+        Pandita.cz
+      </div>
+    </div>
+  </section>
+
+  <nav id="menu-container">
+    <div id="desktop-menu">
+      <div id="inside-desktop-menu">
+        {{ partial "nav" . }}
+        <!--
+        <a class="menu-item" href="/index.md">ÚVOD</a>
+        <a class="menu-item" href="/autori.html">AUTOŘI</a>
+        <a class="menu-item" href="/texty.html">TEXTY</a>
+        <a class="menu-item" href="/kontakt.html">KONTAKT</a>
+        -->
+
+        <div id="icon-close" class="hide-icon-close">
+          <span class="material-icons material-icons-style">close</span>
+        </div>
+
+        <div id="icon-menu" class="show-icon-menu">
+          <span class="material-icons material-icons-style">menu</span>
+        </div>
+      </div>
+    </div>
+
+    <div id="mobile-menu" class="hide-mobile-menu">
+      {{ partial "mobile-nav" . }}
+    </div>
+    <!--
+    <div id="mobile-menu" class="hide-mobile-menu">
+      <a class="mobile-menu-item" href="/index.html">Úvod</a>
+      <a class="mobile-menu-item" href="/autori.html">Autoři</a>
+      <a class="mobile-menu-item" href="/texty.html">Texty</a>
+      <a class="mobile-menu-item" href="/kontakt.html">Kontakt</a>
+    </div>
+  --></nav>
+</header>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+
+  <body>
+    {{ partial "header" . }}
+
+    <!--Content-->
+    <main class="main">
+      <div id="web-under-construction">
+        Obsah tohoto webu zatím hledá své konečné znění.
+      </div>
+
+      <p>
+        <a href="{{ (.Params.levelUp) | relURL }}">
+          <div class="mobile-circle-wrapper">
+            <div class="mobile-circle">
+              <div class="arrow-wrapper">
+                <div class="arrow"></div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </p>
+
+      <!--
+      <a href="#"
+        >lůkj
+        <span class="circle">
+          <div class="arrow-wrapper">
+            <span class="arrow">ffsdfsdsdf</span>
+          </div>
+        </span>
+      </a>-->
+
+      <div id="page">
+        <div id="text-in-page">
+          <!--<a href="{{ .Params.levelUp }}">-->
+          <!--<a href="{{ (.Params.levelUp) | relURL }}"></a>-->
+          <a href="{{ (.Params.levelUp) | relURL }}">
+            <span class="circle">
+              <div class="arrow-wrapper">
+                <span class="arrow"></span>
+              </div>
+            </span>
+          </a>
+
+          <p>{{.Content}}</p>
+        </div>
+      </div>
+    </main>
+    {{ partial "footer.html" . }}
+    <script src="/js/script.js"></script>
+  </body>
+</html>

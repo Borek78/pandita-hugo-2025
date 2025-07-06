@@ -1,0 +1,10 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "GiraffeAcademy Theme"
+
+description = "A theme used in the Giraffe Academy Hugo course"
+
+[author]
+  name = "Dalibor Pavlík"
+  homepage = "http://www.pandita.cz"
