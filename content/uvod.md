@@ -17,7 +17,7 @@ Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube 
 ### Podpořte nás
 Stačí naskenovat kód, zadat darovanou částku a potvrdit.
 <div style="text-align: left;">
-<img src="/images/qr/uni.png" alt="QR Code" class="qr-code" width="200" height="200">
+<img src="/images/qr/dar-pro-jizni-buddhismus.png" alt="QR Code" class="qr-code" width="200" height="200">
 </div>
 
 ### Sociální sítě

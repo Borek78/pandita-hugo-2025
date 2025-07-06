@@ -30,10 +30,9 @@ email: dalibor.pavlik@gmail.com<br>
 ### Odkazy
 [Santikaram - Lesní chrám na Slovensku](https://www.santikaram.com/sk)<br>
 [Buddhovy rozpravy](http://www.dhammadesana.wz.cz/)<br>
-[Meditační centrum Javorie](https://www.javorie.com/)<br>
+[Sati Slovensko](https://www.sati.sk/)<br>
 [Tisarana – Centrum meditace vipassaná](https://www.tisarana.cz/cs/)<br>
 [Náboženská společnost Théravádový buddhismus](https://sasana.cz/)<br>
-[Přátelé Dhammy](http://dhamma.wz.cz/index.htm)<br>
 [Karuna Sevena](https://www.karunasevena.cz/)<br>
 [Sdružení Bhavana](http://www.bhavana.cz/)<br>
 [Buddha Mangala](https://www.buddha.cz/)<br>
